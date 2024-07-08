@@ -32,6 +32,12 @@ Develop a webpage with a shopping list. Users can add items to the list, mark it
 
 #### **Learning Outcomes:**
 
+
+You can use this link and open the website to access the code.
+```
+https://shukri1236.github.io/Shukri-Shopping/
+```
+
 -   Students will practice iterating through an array to access and manipulate list items.
 -   They will gain experience dynamically modifying the DOM based on user interaction.
 -   The challenge reinforces understanding of event listeners and their use in creating interactive applications.
